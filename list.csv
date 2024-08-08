@@ -1,5 +1,5 @@
-firstName,lastName,id,UPN
-john,doe,11a2b-3c4d-5e6f,john.doe@domain.com
+firstName,lastName,userObjectId,UPN
+john,doe,1a2b-3c4d-5e6f,john.doe@domain.com
 john,smith,7g8h-9i0j-1k2l,john.smith@domain.com
 susane,smith,3m4n-5o6p-7q8r,susane.smith@domain.com
 jane,doe,9s0t-1u2v-3w4x,jane.doe@domain.com
